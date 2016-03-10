@@ -80,3 +80,6 @@ Endpoints:
     Private-Port-Name: PORT
     Private-Port:      8080
     Public-Port-Name:  PROXY_PORT
+  - Private-IP-Name: IP
+    Private-Port-Name: XDEBUG_HTTP_PORT
+    Private-Port: 9000
