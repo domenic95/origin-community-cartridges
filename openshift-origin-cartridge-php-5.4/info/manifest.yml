@@ -1,12 +1,12 @@
 Name: php-5.4
 Cartridge-Short-Name: PHP
-Display-Name: PHP 5.4
+Display-Name: PHP 5.4 - Xdebug
 Description: "PHP is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. Popular development frameworks include: CakePHP, Zend, Symfony, and Code Igniter."
 Version: 5.4.10
 License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Source-Url: git@github.com:domenic95/origin-community-cartridges.git
-Vendor: php.net
+Vendor: domenic95
 Categories:
   - service
   - php
