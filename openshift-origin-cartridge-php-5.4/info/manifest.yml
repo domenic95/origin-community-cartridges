@@ -6,7 +6,7 @@ Version: 5.4.10
 License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Source-Url: git@github.com:domenic95/origin-community-cartridges.git
-Vendor: domenic95
+Cartridge-Vendor: domenic95
 Categories:
   - service
   - php
