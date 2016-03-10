@@ -76,6 +76,7 @@ Group-Overrides:
   - components:
     - php-5.4
     - web_proxy
+    - xdebug
 Endpoints:
   - Private-IP-Name:   IP
     Private-Port-Name: PORT
